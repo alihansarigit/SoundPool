@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Relax</string>
+
+    <string name="hello_blank_fragment">Relax</string>
+    <string name="natural_owl">Baykuş</string>
+    <string name="natural_grasshopper">Cırcır Böceği</string>
+    <string name="natural_campfire">Kamp Ateşi</string>
+    <string name="natural_frog">Kurbağa</string>
+    <string name="natural_rain">Yağmur</string>
+    <string name="natural_storm">Gök Gürültüsü</string>
+    <string name="natural_birds">Kuşlar</string>
+    <string name="natural_raintent">Çadırda Yağmur</string>
+    <string name="natural_waterfall">Şelale</string>
+    <string name="natural_forest">Orman</string>
+    <string name="natural_woodspecker">Ağaçkakan</string>
+    <string name="natural_leaf">Yaprak</string>
+    <string name="category_natural">Doğa</string>
+    <string name="category_waterdeep">Sualtı</string>
+    <string name="category_home">Ev</string>
+    <string name="category_enstrumental">Enstrümental</string>
+
+    <string name="underwater_uw1">Su Dibi</string>
+    <string name="underwater_uw2">Su Dibi</string>
+    <string name="underwater_uwb1">Su Kabarcığı</string>
+    <string name="underwater_uwb2">Su Kabarcığı</string>
+    <!--
+Su Dibi,
+Su Dibi,
+Su Kabarcığı,
+Su Kabarcığı,
+Süpürge,
+Fön Makinesi,
+Çakmak,
+Bıçak,
+Boş Şişe,
+Gaz,
+Kase,
+Saat,
+Lamba,
+Gitar,
+Flüt,
+Rüzgar Çanı,
+Piyano,
+Tibet Flütü,
+Tibet Kasesi
+
+-->
+
+    <string name="donate_header">Ne tür bir bağış yapmak istersin ?</string>
+    <string name="home_supurge">Süpürge</string>
+    <string name="home_fonmakinesi">Fön Makinesi</string>
+    <string name="home_cakmak">Çakmak</string>
+    <string name="home_bicak">Bıçak</string>
+    <string name="home_bossise">Boş Şişe</string>
+    <string name="home_gaz">Gaz</string>
+    <string name="home_kase">Kase</string>
+    <string name="home_saat">Saat</string>
+    <string name="home_lamba">Lamba</string>
+    <string name="ens_gitar">Gitar</string>
+    <string name="ens_flut">Flüt</string>
+    <string name="ens_ruzgarcani">Rüzgar Çanı</string>
+    <string name="ens_piyano">Piyano</string>
+    <string name="ens_tibetflut">Tibet Flütü</string>
+    <string name="ens_tibetkasesi">Tibet Kasesi</string>
+
+    <string name="store_name" translatable="false">Auto T-Shirt Shop</string>
+    <string name="googlepay_status_unavailable" translatable="false">Unfortunately, Google Pay is not available on this phone.</string>
+    <string name="googlepay_status_checking" translatable="false">Checking if Google Pay is available...</string>
+    <string name="payments_show_name" translatable="false">Successfully received payment data for %s!</string>
+
+
+</resources>

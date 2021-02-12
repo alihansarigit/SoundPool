@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Relax</string>
+
+    <string name="hello_blank_fragment">Relax</string>
+    <string name="natural_owl">フクロウ</string>
+    <string name="natural_grasshopper">コオロギ</string>
+    <string name="natural_campfire">キャンプファ</string>
+    <string name="natural_frog">カエル</string>
+    <string name="natural_rain">雨</string>
+    <string name="natural_storm">雷</string>
+    <string name="natural_birds">鳥</string>
+    <string name="natural_raintent">テント雨</string>
+    <string name="natural_waterfall">滝</string>
+    <string name="natural_forest">森</string>
+    <string name="natural_woodspecker">ウッドカカン</string>
+    <string name="natural_leaf">葉</string>
+    <string name="category_natural">自然</string>
+    <string name="category_waterdeep">水中</string>
+    <string name="category_home">ハウス</string>
+    <string name="category_enstrumental">楽器</string>
+
+
+    <string name="underwater_uw1">水の底</string>
+    <string name="underwater_uw2">水の底</string>
+    <string name="underwater_uwb1">水泡</string>
+    <string name="underwater_uwb2">水泡</string>
+    <string name="home_supurge">クリーナー</string>
+    <string name="home_fonmakinesi">ブロー乾燥機</string>
+    <string name="home_cakmak">より軽い</string>
+    <string name="home_bicak">ナイフ</string>
+    <string name="home_bossise">空のボトル</string>
+    <string name="home_gaz">ガス</string>
+    <string name="home_kase">丼</string>
+    <string name="home_saat">時間</string>
+    <string name="home_lamba">光,</string>
+    <string name="ens_gitar">ギター</string>
+    <string name="ens_flut">笛</string>
+    <string name="ens_ruzgarcani">風のチャイム</string>
+    <string name="ens_piyano">ピアノ</string>
+    <string name="ens_tibetflut">チベットの笛</string>
+    <string name="ens_tibetkasesi">チベットボウル</string>
+    <string name="donate_header">どのような寄付をしたいですか？</string>
+
+</resources>

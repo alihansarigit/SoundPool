@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Relax</string>
+
+    <string name="hello_blank_fragment">Relax</string>
+    <string name="natural_owl">Owl</string>
+    <string name="natural_grasshopper">Grasshopper</string>
+    <string name="natural_campfire">Camp Fire</string>
+    <string name="natural_frog">Frog</string>
+    <string name="natural_rain">Rain</string>
+    <string name="natural_storm">Storm</string>
+    <string name="natural_birds">Birds</string>
+    <string name="natural_raintent">Rain Tent</string>
+    <string name="natural_waterfall">Waterfall</string>
+    <string name="natural_forest">Forest</string>
+    <string name="natural_woodspecker">Woodpecker</string>
+    <string name="natural_leaf">Leaf</string>
+    <string name="category_natural">Nature</string>
+    <string name="category_waterdeep">Under Water</string>
+    <string name="category_home">Home</string>
+    <string name="category_enstrumental">Instrumental</string>
+
+    <string name="underwater_uw1">Water Bottom</string>
+    <string name="underwater_uw2">Water Bottom</string>
+    <string name="underwater_uwb1">Water Bubble</string>
+    <string name="underwater_uwb2">Water Bubble</string>
+    <string name="home_supurge">Cleaner</string>
+    <string name="home_fonmakinesi">Blow Dryer</string>
+    <string name="home_cakmak">Lighter</string>
+    <string name="home_bicak">Knife</string>
+    <string name="home_bossise">Empty Bottle</string>
+    <string name="home_gaz">Gas</string>
+    <string name="home_kase">Bowl</string>
+    <string name="home_saat">Hour</string>
+    <string name="home_lamba">Light</string>
+    <string name="ens_gitar">Guitar</string>
+    <string name="ens_flut">Flute</string>
+    <string name="ens_ruzgarcani">Wind Chime</string>
+    <string name="ens_piyano">Piano</string>
+    <string name="ens_tibetflut">Tibetan Flute</string>
+    <string name="ens_tibetkasesi">Tibetan Bowl</string>
+    <string name="donate_header">What kind of donation would you like to make ?</string>
+
+</resources>

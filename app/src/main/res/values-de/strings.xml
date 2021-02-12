@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Relax</string>
+
+    <string name="hello_blank_fragment">Relax</string>
+    <string name="natural_owl">Eule</string>
+    <string name="natural_grasshopper">Heuschrecke</string>
+    <string name="natural_campfire">Lagerfeuer</string>
+    <string name="natural_frog">Frosch</string>
+    <string name="natural_rain">Regen</string>
+    <string name="natural_storm">Sturm </string>
+    <string name="natural_birds">Birds</string>
+    <string name="natural_raintent">Regen Zelt</string>
+    <string name="natural_waterfall">Wasserfall</string>
+    <string name="natural_forest">Wald</string>
+    <string name="natural_woodspecker">Specht</string>
+    <string name="natural_leaf">Blatt</string>
+    <string name="category_natural">Natur</string>
+    <string name="category_waterdeep">Unter Wasser</string>
+    <string name="category_home">Startseite</string>
+    <string name="category_enstrumental">Instrumental</string>
+
+    <string name="underwater_uw1">Wasser Unten</string>
+    <string name="underwater_uw2">Wasser Unten</string>
+    <string name="underwater_uwb1">Wasser Blase</string>
+    <string name="underwater_uwb2">Wasser Blase</string>
+    <string name="home_supurge">Reiniger</string>
+    <string name="home_fonmakinesi">Föhn</string>
+    <string name="home_cakmak">Leichtere</string>
+    <string name="home_bicak">Messer</string>
+    <string name="home_bossise">Leere Flasche</string>
+    <string name="home_gaz">Gas</string>
+    <string name="home_kase">Schüssel</string>
+    <string name="home_saat">Stunden</string>
+    <string name="home_lamba">Licht</string>
+    <string name="ens_gitar">Gitarre</string>
+    <string name="ens_flut">FL</string>
+    <string name="ens_ruzgarcani">Windspiel</string>
+    <string name="ens_piyano">Klavier</string>
+    <string name="ens_tibetflut">Tibetische Flöte</string>
+    <string name="ens_tibetkasesi">Tibetische Schüssel</string>
+    <string name="donate_header">Welche Art von Spende möchten Sie machen ?</string>
+
+</resources>

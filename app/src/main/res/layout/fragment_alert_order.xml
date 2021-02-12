@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragments.AlertOrderFragment">
+
+    <TextView
+        android:text="@string/donate_header"
+        android:layout_width="match_parent"
+        android:textSize="18dp"
+        android:gravity="center"
+        android:layout_height="wrap_content"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/frg_alertorder_rec"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Relax</string>
+
+    <string name="hello_blank_fragment">Relax</string>
+    <string name="natural_owl">猫头鹰</string>
+    <string name="natural_grasshopper">蚱蜢</string>
+    <string name="natural_campfire">营火</string>
+    <string name="natural_frog">青蛙</string>
+    <string name="natural_rain">雨</string>
+    <string name="natural_storm">风暴 </string>
+    <string name="natural_birds">鸟</string>
+    <string name="natural_raintent">雨篷</string>
+    <string name="natural_waterfall">瀑布</string>
+    <string name="natural_forest">森林</string>
+    <string name="natural_woodspecker">啄木鸟</string>
+    <string name="natural_leaf">叶</string>
+    <string name="category_natural">自然</string>
+    <string name="category_waterdeep">在水下</string>
+    <string name="category_home">家</string>
+    <string name="category_enstrumental">你知道吗？</string>
+
+    <string name="underwater_uw1">水底</string>
+    <string name="underwater_uw2">水底</string>
+    <string name="underwater_uwb1">水泡</string>
+    <string name="underwater_uwb2">水泡</string>
+    <string name="home_supurge">更清洁</string>
+    <string name="home_fonmakinesi">吹塑机</string>
+    <string name="home_cakmak">打火机</string>
+    <string name="home_bicak">刀</string>
+    <string name="home_bossise">空瓶</string>
+    <string name="home_gaz">气体</string>
+    <string name="home_kase">碗</string>
+    <string name="home_saat">小时</string>
+    <string name="home_lamba">光</string>
+    <string name="ens_gitar">吉他</string>
+    <string name="ens_flut">长笛</string>
+    <string name="ens_ruzgarcani">风铃</string>
+    <string name="ens_piyano">钢琴</string>
+    <string name="ens_tibetflut">藏笛</string>
+    <string name="ens_tibetkasesi">西藏碗</string>
+    <string name="donate_header">你想做什么样的捐赠？</string>
+
+</resources>
